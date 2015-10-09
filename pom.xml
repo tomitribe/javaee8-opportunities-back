@@ -21,5 +21,6 @@
     <module>run-as</module>
     <module>cdi-extension</module>
     <module>interceptors</module>
+    <module>callbacks</module>
   </modules>
 </project>
